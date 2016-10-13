@@ -1,9 +1,13 @@
 ##Copyrights
 
-> I built this project forked and revised from [https://agusmakun.github.io](https://agusmakun.github.io)
+> I built this project by forking and revising from  [https://agusmakun.github.io](https://agusmakun.github.io). For the time being this project basicly has no difference with it, I'll customize it into my appetite continuously.
+
 ----
+
 ###previous version contents
+
 * below are origin contents, I keep them so I can refer to them before I figure out how this github-pag e works. 
+
 ## My Stack Problems
 
 > This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll), and the search posts using [Super Search](https://github.com/chinchang/super-search)
