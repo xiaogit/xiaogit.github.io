@@ -4,14 +4,8 @@ title:  "Weekly Reflection"
 date:   2016-10-15 00:18:23 +0700
 categories: [Reflection]
 ---
-Learned about a lot of important 
+上周有点过载的感觉，睡眠时间被压缩。灌了很多新东西，Jekyll,SQLite,muduo,个个都是巨坑。上周都只是蜻蜓点水， 慢慢填吧。目前，有精力的话，还是把Jsontutorial过一遍吧。
 
-## Why use Simply Grey?
-There are lots of reasons why I think you should use Simply Grey but I will list the main ones that I believe are more of benefit to you, the user.
-
-+	<em>Easy to use and setup</em> - Jekyll has a huge range of documentation to get you started writing posts and the Simply Grey theme makes your blog look beautiful.
-+	<em>Easy configuration</em> - I developed this theme in order to be as customisable as possible. If you want to add more links to the navigation bar, all you have to do is edit the _config.yaml file and the `urls` part of it.
-+	<em>You can change it</em> - After being released with the MIT license (like Jekyll itself) you are free to change and basically do anything you want to this theme provided you keep the copyright notice in the files and distribute the license with it. 
 
 
 

@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-An adventurer knocked into the world of C/C++. A ranger came from the mysterious forest NO.1037. A meditator waiting for one to come by the side of his shoulders.
+An adventurer from the mysterious forest NO.1037. knocked into the world of C/C++. 
 
 email: agus[at]python.web.id
