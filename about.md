@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, actually in Python and Django.
+An adventurer knocked into the world of C/C++. A ranger came from the mysterious forest NO.1037. A meditator waiting for one to come by the side of his shoulders.
 
 email: agus[at]python.web.id

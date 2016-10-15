@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "A Tesst"
+date:   2016-10-14
+categories: [Init Test]
+---
+
+ I’m planning to recall my problems and keep the solutions for the record.
+
+
+
+### Test Feature Chinese Character Set
+ * 试试
+
+### 打几个汉字，看下是不是真有bug。
+
+ >再试试
+
+-----
+	
+### Code Snippets 
+
+{% highlight C %}
+#include <stdio.h>
+int main(){
+	int i = 0;
+	return ++i;//commennt
+}
+
+{% endhighlight %}
+
+
+
